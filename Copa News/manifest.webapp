@@ -1,0 +1,20 @@
+ {
+	"name": "Copa News",
+ 	"version": "1.0",
+ 	"description": "Confira as notícias e saiba quantos dias faltam para a copa do mundo no Brasil.",
+ 	"launch_path": "/index.html",
+ 		"permissions": {
+ 			"storage": {
+ 				"description": "Required for storing and retrieving notes."
+ 			}
+		},
+	
+	"developer": 
+{	"name": "Junior Simensato",
+	"url": "juniorsimensato@outlook.com"
+	},
+	"icons": {
+	"60": "/fuleco60.png",
+	"128": "/fuleco128.png"
+	}
+}
